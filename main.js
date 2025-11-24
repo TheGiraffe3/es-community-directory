@@ -272,7 +272,7 @@ const DIRECTORY = {
 	_1010todd: {
 		name: "1010todd",
 		aka: {},
-		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/1010todd.png",
+		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/_1010todd.png",
 		status: 0,
 		pronouns: "they/them",
 		country: "",
@@ -408,7 +408,7 @@ const DIRECTORY = {
 		aka: {
 			github: "danaris"
 		},
-		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/delvinanaris.png",
+		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/delvin_anaris.png",
 		status: 0,
 		pronouns: "he/him",
 		country: "",
@@ -421,7 +421,7 @@ const DIRECTORY = {
 	darcy_manoel: {
 		name: "Darcy Manoel",
 		aka: {},
-		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/darcymanoel.png",
+		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/darcy_manoel.png",
 		status: 2,
 		pronouns: "he/him",
 		country: "AU",
@@ -436,7 +436,7 @@ const DIRECTORY = {
 		aka: {
 			github: "Amazinite"
 		},
-		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/derpyhorse.png",
+		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/derpy_horse.png",
 		status: 0,
 		pronouns: "they/them",
 		country: "",
@@ -476,7 +476,7 @@ const DIRECTORY = {
 	gefullte_taubenbrust: {
 		name: "Gefüllte Taubenbrust",
 		aka: {},
-		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/gefulltetaubenbrust.png",
+		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/gefullte_taubenbrust.png",
 		status: 0,
 		pronouns: "they/them",
 		country: "DE",
@@ -650,7 +650,7 @@ const DIRECTORY = {
 		aka: {
 			github: "endless-sky"
 		},
-		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/michaelzahniser.png",
+		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/mz.png",
 		status: 2,
 		pronouns: "he/him",
 		country: "",
@@ -749,7 +749,7 @@ const DIRECTORY = {
 	nana_scone: {
 		name: "Nana Scone",
 		aka: {},
-		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/nanascone.png",
+		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/nana_scone.png",
 		status: 0,
 		pronouns: "they/them",
 		country: "",
@@ -852,7 +852,7 @@ const DIRECTORY = {
 	reticent_rem: {
 		name: "reticent-rem",
 		aka: {},
-		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/reticent-rem.png",
+		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/reticent_rem.png",
 		status: 0,
 		pronouns: "they/them",
 		country: "",
@@ -1043,7 +1043,7 @@ const DIRECTORY = {
 	warlord_mike: {
 		name: "Warlord Mike",
 		aka: {},
-		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/warlordmike.png",
+		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/warlord_mike.png",
 		status: 1,
 		pronouns: "they/them",
 		country: "",
