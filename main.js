@@ -272,7 +272,7 @@ const DIRECTORY = {
 	_1010todd: {
 		name: "1010todd",
 		aka: {},
-		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/_1010todd.png",
+		avatar: "img/avatars/_1010todd.png",
 		status: 0,
 		pronouns: "they/them",
 		country: "",
