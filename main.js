@@ -284,7 +284,7 @@ const DIRECTORY = {
 	// Anarchist2
 	anarchist2: {
 		name: "Anarchist2",
-		avatar: "https://raw.githubusercontent.com/nova1422/es-community-directory/test/avatars/anarchist2.png",
+		avatar: "https://github.com/nova1422/es-community-directory/test/avatars/anarchist2.png",
 		status: 0,
 		pronouns: "she/her",
 		country: "",
